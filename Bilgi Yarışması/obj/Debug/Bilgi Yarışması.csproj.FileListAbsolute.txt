@@ -1,0 +1,19 @@
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.exe
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Bilgi Yarışması.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.exe
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\Interop.WMPLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\bin\Debug\AxInterop.WMPLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Interop.WMPLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\AxInterop.WMPLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.ResolveComReference.cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form2.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form3.resources
+C:\Users\ASUS\documents\visual studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi_Yarışması.Form5.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Bilgi Yarışması\Bilgi Yarışması\obj\Debug\Bilgi Yarışması.csproj.CoreCompileInputs.cache

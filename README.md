@@ -1,5 +1,5 @@
 
-# BİLGİ YARIŞMASI
+# BİLGİ YARIŞMASI  📚
 
 Bu Proje Sql Server Management Studio 18 ve Visual Studio 2019 kullanılarak yapılmıştır.Toplamda 12 sorudan oluşmaktadır. Sorular veri tabanından çekilirken karıştırılmaktadır. 4 tane joker vardır. Bunlar seyirciye sorma ,yarı yarıya ,soruyu değiştirme ve süreyi durdurma haklarıdır. Süre ilk 7 soru için 20, sonraki sorularda ise 40 saniyedir. 1000 , 15000 ve 1000000 TL barajlardır. Çekilen oyuncu en son cevapladığı sorunun ödülünü kazanır. Yanlış cevap verildiği takdirde en son doğru cevap verilen baraj ödülü alınır ve veri tabanına kaydedilir. Soruların bir kısmı kim milyoner olmak ister yarışmasından geri kalanıda çeşitli sitelerden bulunmuştur. Projede doğru cevap ,yanlış cevap ve giriş ekranlarında uygun müzikler eklenmiştir.
 
